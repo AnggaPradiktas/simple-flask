@@ -1,2 +1,22 @@
+#GET
+
 https://reqres.in/api/users?page=1
 
+https://reqres.in/api/users/2
+
+
+#POST
+
+https://reqres.in/api/users
+
+#PUT
+
+https://reqres.in/api/users/2
+
+#UPDATE
+
+https://reqres.in/api/users/2
+
+#DELETE
+
+https://reqres.in/api/users/2
