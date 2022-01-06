@@ -6,6 +6,8 @@ Untuk menjalankan flask apps di local computer, kita dapat melakukan command ber
  python3 flask_example.py
  `
  
+ Lalu akan muncul output seperti dibawah
+ 
  ```
  * Serving Flask app "flask_example" (lazy loading)
  * Environment: production
