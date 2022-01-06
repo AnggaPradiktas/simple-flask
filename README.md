@@ -2,9 +2,9 @@
 
 Untuk menjalankan flask apps di local computer, kita dapat melakukan command berikut pada direktori dimana file py ini disimpan
 
- ```
+ `
  python3 flask_example.py
- ```
+ `
  
  ```
  * Serving Flask app "flask_example" (lazy loading)
